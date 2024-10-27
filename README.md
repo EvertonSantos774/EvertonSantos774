@@ -4,7 +4,7 @@
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/everton-santos-45862a1b1/)
 
 <div align="left">
-    <img alt="Everton git Stats" src="https://github-readme-stats.vercel.app/api?username=EvertonSantos774&show_icons=true&theme=dracula">
+    <img height= "195px" alt="Everton git Stats" src="https://github-readme-stats.vercel.app/api?username=EvertonSantos774&show_icons=true&theme=dracula">
     <img height= "195px" alt="Everton Languages used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvertonSantos774&theme=dracula">
 </div>
 
